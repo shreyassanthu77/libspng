@@ -12,3 +12,5 @@
 /trash/
 /tests/formal/
 /site/
+.zig-cache/
+zig-out/
